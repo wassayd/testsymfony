@@ -5,7 +5,7 @@ Création d'une API avec API plateforme
 ## Etape pour configurer le projet
 
 - composer install 
-   Pour installer les différents packages nécessaire au fonctionnement de l'application
+    - Pour installer les différents packages nécessaire au fonctionnement de l'application
 
 - Configuer et lancer la base de donnés
     - Dans le fichier .env DATABASE_URL=mysql://root:@127.0.0.1/testapi
