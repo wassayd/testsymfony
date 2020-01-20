@@ -17,12 +17,6 @@ Création d'une API avec API plateforme
 - php bin/console doctrine:schema:create
     - Créer le schema de la base de données 
 
-- php bin/console make:migration
-    - Créer une migration
-
-- php bin/console doctrine:migrations:migrate
-    - Applique la migration
-
 - php bin/console doctrine:fixtures:load
     - Génere des données qui vont etre persister dans la base de donées 
 
